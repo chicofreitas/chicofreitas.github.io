@@ -1,3 +1,3 @@
 const root = document.getElementById('root');
 
-root.textContent = "Root element"
+//root.textContent = "Root element"
